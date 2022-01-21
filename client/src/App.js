@@ -22,8 +22,8 @@ function App() {
             </div>
             <div class="body">
                 <body>
-                <a href="https://github.com/Rallstad/ermaritadvokat">Sjekk ut Haralds Github for massevis av uferdig ræl
-                    <img src="github.png" className="Link-image"></img>
+                <a href="https://github.com/Rallstad">Sjekk ut Haralds Github for massevis av uferdig ræl
+                    <img src="github.png" className="Link-image" alt=""></img>
                 </a>
                 </body>
             </div>
