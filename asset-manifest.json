@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ermaritadvokat/static/css/main.073c9b0a.css",
-    "main.js": "/ermaritadvokat/static/js/main.c92f8f09.js",
+    "main.css": "/ermaritadvokat/static/css/main.1adfeaba.css",
+    "main.js": "/ermaritadvokat/static/js/main.5192ddf8.js",
     "static/js/512.2ba4e68f.chunk.js": "/ermaritadvokat/static/js/512.2ba4e68f.chunk.js",
     "static/media/lawyerhat.svg": "/ermaritadvokat/static/media/lawyerhat.f149928374615adedb89a4dcf21e0616.svg",
     "index.html": "/ermaritadvokat/index.html",
-    "main.073c9b0a.css.map": "/ermaritadvokat/static/css/main.073c9b0a.css.map",
-    "main.c92f8f09.js.map": "/ermaritadvokat/static/js/main.c92f8f09.js.map",
+    "main.1adfeaba.css.map": "/ermaritadvokat/static/css/main.1adfeaba.css.map",
+    "main.5192ddf8.js.map": "/ermaritadvokat/static/js/main.5192ddf8.js.map",
     "512.2ba4e68f.chunk.js.map": "/ermaritadvokat/static/js/512.2ba4e68f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.c92f8f09.js"
+    "static/css/main.1adfeaba.css",
+    "static/js/main.5192ddf8.js"
   ]
 }
