@@ -17,7 +17,10 @@ function App() {
                 <header className="App-header">
                     <img src={logo} className="App-logo" alt="logo" />
                     <h1>{!data ? "Er Marit advokat?" : data}</h1>
-                    <h6>Niks</h6>
+                    <p><font size="5">Niks</font></p>
+                    <p>
+                        <a href="https://harmannenfalt.no/"><font size="1">Har mannen falt?</font></a>
+                    </p>
                 </header>
             </div>
             <div class="body">
